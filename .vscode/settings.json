@@ -1,0 +1,7 @@
+{
+    "editor.gotoLocation.alternativeImplementationCommand": "editor.action.goToReferences",
+    "editor.gotoLocation.alternativeReferenceCommand": "editor.action.goToReferences",
+    "yaml.schemas": {
+        "https://json.schemastore.org/pubspec.json": "file:///c%3A/Users/ouahbi/StudioProjects/finala/pubspec.yaml"
+    }
+}

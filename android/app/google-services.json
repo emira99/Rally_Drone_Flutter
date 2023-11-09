@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "344508113760",
+    "project_id": "avioav-app-bf5cc",
+    "storage_bucket": "avioav-app-bf5cc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344508113760:android:d0654989fbfcbf3b603405",
+        "android_client_info": {
+          "package_name": "com.example.finala"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "344508113760-nuel2rsrhnh8423auf1e3n6928u03hcm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwdcRUQlzBRITjLiN2Jj0uBL1gBCn3Gaw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "344508113760-nuel2rsrhnh8423auf1e3n6928u03hcm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
